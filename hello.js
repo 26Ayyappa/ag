@@ -1,0 +1,10 @@
+console.log("hello java")
+var d1="wydshjbdhjfb dnsjkdhjkndk dbhjdkjd "
+console.log(d1)
+console.log(d1)
+console.log(d1)
+console.log(d1)
+console.log(d1)
+console.log(52)
+console.log(2.20)
+console.log(12.2)
